@@ -22,7 +22,7 @@ This project is a simple user interface built using Python's Tkinter library and
 
 1. Clone the repository to your local machine
 ```
-git clone https://github.com/ameerali-19/Hotel_Management_System.git
+git clone https://github.com/Arathi0105/Hotel-Management-System
 ```
 2. Install the required libraries by running the following command in the project directory
 ```
